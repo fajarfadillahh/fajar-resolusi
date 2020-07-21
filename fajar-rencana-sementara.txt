@@ -3,5 +3,8 @@ RENCANA SEMENTARA SAYA :
   * Kelas fullstack javascript
   * Kelas fullstack web developer
 - Jalan-jalan bareng temen-temen
+    ^ Pantai
 - Touring menggunakan sepeda
+    ^ Bundaran HI
+    ^ Gelora Bung Karno
 - Membuat website untuk sekolah
